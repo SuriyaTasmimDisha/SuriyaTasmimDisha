@@ -10,3 +10,17 @@
 <div id="about" align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=22&pause=1000&color=F85c7c&center=true&vCenter=true&width=600&lines=Full+Stack+Web+And+App+Developer;2%2B+Years+Of+Coding+Experience;Always+Exploring+And+Learning+New+Things" alt="Typing SVG" /></a>
 </div>
+
+<!-- Social Media -->
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/suriya-tasmim-disha/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC6n_v98g89xYfeyzpLj84JQ">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/SuriyaDisha">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SuriyaTasmimDisha&style=for-the-badge&color=red" alt=""/>
+</div>
