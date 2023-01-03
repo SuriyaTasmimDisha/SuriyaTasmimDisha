@@ -33,7 +33,8 @@
 
 <!-- Latest Blog Posts -->
  <summary><h2>📝 Latest Blog Posts</h2></summary>
-<!-- BLOG-POST-LIST:START --><tr><td>How To Create An AWS Billing Alarm</td><td>https://blog.suriyadisha.com/how-to-create-an-aws-billing-alarm</td></tr><tr><td>AWS - Create Your Free Account In 7 Easy Steps</td><td>https://blog.suriyadisha.com/aws-create-your-free-account-in-7-easy-steps</td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
  
 <!-- Favorite Tools -->
 <details open>
