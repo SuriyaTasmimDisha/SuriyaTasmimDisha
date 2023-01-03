@@ -15,4 +15,4 @@ jobs:
         with:
           max_post_count: "4"
           feed_list: "https://blog.suriyadisha.com/rss.xml"
-          template: "<tr><td>$title</td><td>$url</td></tr>"
+          disable_html_encoding: false
