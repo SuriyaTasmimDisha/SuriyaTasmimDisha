@@ -24,11 +24,14 @@
 <hr>
 
 <!-- Social Media -->
+<details open> 
+  <summary><h2>📺 Latest YouTube Videos</h2></summary>
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
-
+</details>
+ 
 <!-- Favorite Tools -->
-<details id="tools" open>
+<details open>
  <summary><h2>🛠️ My Favorite Tools</h2></summary>
  <h3>👨‍💻 Programming Languages</h3>
  <p>
