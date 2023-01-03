@@ -35,6 +35,8 @@
 <details open> 
   <summary><h2>📝 Latest Blog Posts</h2></summary>
 <!-- BLOG-POST-LIST:START -->
+- [How To Create An AWS Billing Alarm](https://blog.suriyadisha.com/how-to-create-an-aws-billing-alarm)
+- [AWS - Create Your Free Account In 7 Easy Steps](https://blog.suriyadisha.com/aws-create-your-free-account-in-7-easy-steps)
 <!-- BLOG-POST-LIST:END -->
 </details>
  
