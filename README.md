@@ -27,3 +27,8 @@
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=xR22JuhWfcI"><img src="https://ytcards.demolab.com/?id=xR22JuhWfcI&title=How+To+Create+An+AWS+Billing+Alarm&lang=en&timestamp=1670519402&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=493" alt="How To Create An AWS Billing Alarm" title="How To Create An AWS Billing Alarm"></a>
 <!-- END YOUTUBE-CARDS -->
+
+<!-- Latest Blog Posts -->
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
