@@ -86,8 +86,8 @@
   <a href="#"><img alt="Clodflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white"></a>
  </p>
  
-<!-- Github Activity -->
-## 📈 Github Activity
+<!-- Github Activities -->
+## 📈 Github Stats
  <h3>🔥 Streak Stats</h3>
  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <p><img src="https://streak-stats.demolab.com?user=SuriyaTasmimDisha&theme=monokai-metallian&hide_border=true&mode=weekly&fire=DD2727"></p>
