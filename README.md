@@ -2,12 +2,12 @@
 <div id="intro-img" align="center">
 <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width=100></a>
 </div>
-<div id="about-me" align="center">
+<!-- <div id="about-me" align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=EB5775&center=true&vCenter=true&width=550&lines=Hi%2C+I+am+Suriya+Tasmim+Disha;It's+nice+to+meet+you!;I+am+a+full+stack+web+and+app+developer" alt="Typing SVG" /></a>
-</div>
+</div> -->
 
 <!-- Social Media -->
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/suriya-tasmim-disha/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
@@ -18,4 +18,4 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
   </a>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=SuriyaTasmimDisha&style=for-the-badge&color=red" alt="Profile Views"></a>
-</div>
+</div> -->
