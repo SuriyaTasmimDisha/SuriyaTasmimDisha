@@ -19,4 +19,3 @@
   </a>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=SuriyaTasmimDisha&style=for-the-badge&color=red" alt="Profile Views"></a>
 </div>
-<hr>
