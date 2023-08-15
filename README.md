@@ -31,6 +31,7 @@
 <!-- Latest Blog Posts -->
  ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Full Stack 🤖 AI-Powered 📧 Email Generation App using OpenAI API - Part 1](https://blog.suriyadisha.com/full-stack-ai-powered-email-generation-app-using-openai-api-part-1)
 - [How I Improved My GitHub Profile Readme](https://blog.suriyadisha.com/how-i-improved-my-github-profile-readme)
 - [How To Create An AWS Billing Alarm](https://blog.suriyadisha.com/how-to-create-an-aws-billing-alarm)
 - [AWS - Create Your Free Account In 7 Easy Steps](https://blog.suriyadisha.com/aws-create-your-free-account-in-7-easy-steps)
