@@ -31,10 +31,10 @@
 <!-- Latest Blog Posts -->
  ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript 101: A Beginner&#39;s Guide To The Call Stack](https://suriyadisha.hashnode.dev/javascript-101-a-beginners-guide-to-the-call-stack)
-- [How I Improved My GitHub Profile Readme](https://suriyadisha.hashnode.dev/how-i-improved-my-github-profile-readme)
-- [How To Create An AWS Billing Alarm](https://suriyadisha.hashnode.dev/how-to-create-an-aws-billing-alarm)
-- [AWS - Create Your Free Account In 7 Easy Steps](https://suriyadisha.hashnode.dev/aws-create-your-free-account-in-7-easy-steps)
+- [JavaScript 101: A Beginner&#39;s Guide To The Call Stack](https://blog.suriyadisha.com/javascript-101-a-beginners-guide-to-the-call-stack)
+- [How I Improved My GitHub Profile Readme](https://blog.suriyadisha.com/how-i-improved-my-github-profile-readme)
+- [How To Create An AWS Billing Alarm](https://blog.suriyadisha.com/how-to-create-an-aws-billing-alarm)
+- [AWS - Create Your Free Account In 7 Easy Steps](https://blog.suriyadisha.com/aws-create-your-free-account-in-7-easy-steps)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Favorite Tools -->
