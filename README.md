@@ -33,10 +33,10 @@
 <!-- Latest Blog Posts -->
  ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Callbacks Made Easy: Learn, Apply &amp; Conquer! 🚀](https://blog.suriyadisha.com/javascript-callbacks-made-easy-learn-apply-conquer)
 - [Master Asynchronous JavaScript Like a Pro &lpar;Easy Guide!&rpar;](https://blog.suriyadisha.com/master-asynchronous-javascript-like-a-pro-easy-guide)
 - [JavaScript 101: A Beginner&#39;s Guide To The Call Stack](https://blog.suriyadisha.com/javascript-101-a-beginners-guide-to-the-call-stack)
 - [How I Improved My GitHub Profile Readme](https://blog.suriyadisha.com/how-i-improved-my-github-profile-readme)
-- [How To Create An AWS Billing Alarm](https://blog.suriyadisha.com/how-to-create-an-aws-billing-alarm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Favorite Tools -->
